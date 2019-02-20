@@ -1,1 +1,2 @@
-pritn("Follow Ig : Mahastudent")
+print("Follow Ig : Mahastudent")
+print("Nani??!!")
